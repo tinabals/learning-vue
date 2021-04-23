@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="108" viewBox="0 0 176 108">
+  <defs>
+    <style>
+      .d817ee20-b881-4d2d-a8b9-e52e05839830 {
+        fill: #36495e;
+      }
+    </style>
+  </defs>
+  <title>keyboard-blue</title>
+  <g id="16f0e53c-c641-4393-97c9-0ae06fff938d" data-name="Layer 2">
+    <g id="d6858756-a3b0-44fb-bf6f-f621f52f1cd1" data-name="Layer 2">
+      <g>
+        <path class="d817ee20-b881-4d2d-a8b9-e52e05839830" d="M172,28H93a1,1,0,0,1-1-1V1a1,1,0,0,0-1-1H85a1,1,0,0,0-1,1V27a1,1,0,0,1-1,1H4a4,4,0,0,0-4,4v72a4,4,0,0,0,4,4H172a4,4,0,0,0,4-4V32A4,4,0,0,0,172,28Zm-4,71a1,1,0,0,1-1,1H9a1,1,0,0,1-1-1V37a1,1,0,0,1,1-1H167a1,1,0,0,1,1,1Z"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="44.01" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="20.01" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="20" y="64" width="28" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="36" y="80" width="104" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="68.01" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="92" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="116" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="140.01" y="48" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="128" y="64" width="28" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="104" y="64" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="80" y="64" width="16" height="8" rx="1" ry="1"/>
+        <rect class="d817ee20-b881-4d2d-a8b9-e52e05839830" x="56" y="64" width="16" height="8" rx="1" ry="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
